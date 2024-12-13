@@ -1,5 +1,5 @@
 import java.util.Scanner;
-// so here we use java laibraries to create Tick tak to game 
+// so here we use java laibraries to create Tick tak toe game 
 class Main {
   public static void main(String[] args) { // using simple control satement , while loop and for loop 
     char[][] board = new char[3][3]; // so here we so 2D array for 3*3 matrix
